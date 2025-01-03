@@ -1,5 +1,5 @@
-# Excel_Project
-Pizza Sales Excel Dashboard
+# Pizza Sales Excel Dashboard
+
 **Objective:**
 Analyzing sales trends and metrics for a pizza business to drive data-driven decisions for revenue growth and customer satisfaction.
 <br>
